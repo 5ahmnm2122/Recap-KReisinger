@@ -16,11 +16,11 @@ Screenshots (concept and experience), Video
 Unity Installation
 
 ### Third party material: 
-Air Baloon: https://www.pngall.com/hot-air-balloon-png/download/32824
-Sky: https://pixabay.com/photos/sky-cloud-air-blue-sky-background-2690418/
-Crosshair: https://pixabay.com/de/vectors/fadenkreuz-anvisieren-zielen-467258/
-Sound: https://www.youtube.com/watch?v=RNzi4FqESMA&ab_channel=GameArchiver
-Readme Template: https://raw.githubusercontent.com/3ahmnm-htlsbg/inclass-WegGl-cs-smeerws/master/README.md
+Air Baloon: https://www.pngall.com/hot-air-balloon-png/download/32824  
+Sky: https://pixabay.com/photos/sky-cloud-air-blue-sky-background-2690418/  
+Crosshair: https://pixabay.com/de/vectors/fadenkreuz-anvisieren-zielen-467258/  
+Sound: https://www.youtube.com/watch?v=RNzi4FqESMA&ab_channel=GameArchiver  
+Readme Template: https://raw.githubusercontent.com/3ahmnm-htlsbg/inclass-WegGl-cs-smeerws/master/README.md  
 
 ### Project state: 
 finished - 100%
