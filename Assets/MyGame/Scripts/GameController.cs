@@ -13,6 +13,8 @@ public class GameController : MonoBehaviour
     private GameObject winText;
     [SerializeField]
     private Camera cam;
+    [SerializeField]
+    public Texture2D cursorTexture;
 
     private float canvWidth;
     private float canvHeight;
@@ -24,6 +26,7 @@ public class GameController : MonoBehaviour
 
     void Start()
     {
+        Cursor.SetCursor(cursorTexture,  Vector2.zero, CursorMode.Auto);
         // Triggered by Target
         RecapEvents.current.onTargetHit += TargetHitFunc;
         RectTransform canvRect = canvas.GetComponentInParent<Canvas>().GetComponent<RectTransform>();
@@ -41,6 +44,9 @@ public class GameController : MonoBehaviour
             if(timer > 2) 
             {
                 SpawnTarget();
+            }
+            if(Input.GetMouseButtonDown(0)) {
+             this.gameObject.GetComponent<AudioSource>().Play(0);
             }
         }
     }
