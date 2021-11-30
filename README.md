@@ -10,7 +10,7 @@ OS: Windows 10.0.19024, Unity 2020.3.18f1, Visual Studio Code
 WebGL
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+none
 
 ### Necessary setup/execution steps: 
 Unity Installation
